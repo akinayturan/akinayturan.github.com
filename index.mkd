@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://github.com/baskent
+redirect_url: https://github.com/bizimakin
 ---
